@@ -28,7 +28,7 @@
 
 ### 1. Prepare the data
 
-
+Users can run the Matlab source code for generating the training data.
 
 ### 2. Start training
 
