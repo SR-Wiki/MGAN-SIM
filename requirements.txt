@@ -1,0 +1,9 @@
+datasets==3.3.2
+focal-frequency-loss==0.3.0
+matplotlib==3.9.4
+numpy==1.26.4
+requests==2.32.3
+scikit-image==0.24.0
+scipy==1.11.3
+tifffile==2023.8.25
+kornia==0.8.0
