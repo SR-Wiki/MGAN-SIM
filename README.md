@@ -26,11 +26,11 @@
 
 ## **2.training**
 
-### 1. Prepare the data
+  ### 1. Prepare the data
 
-Users can run the Matlab source code for generating the training data.
+  Users can run the Matlab source code for generating the training data.
 
-### 2. Start training
+  ### 2. Start training
 
   Users can run directly from the command line:
 
